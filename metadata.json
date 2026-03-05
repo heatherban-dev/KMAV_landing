@@ -1,0 +1,5 @@
+{
+  "name": "Kakao Mobility Autonomous Taxi Guide",
+  "description": "A mobile-optimized guide for passengers of Kakao Mobility's autonomous taxi service, featuring safety tips, Q&A, and technology insights.",
+  "requestFramePermissions": []
+}
